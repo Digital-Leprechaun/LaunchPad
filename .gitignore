@@ -1,0 +1,20 @@
+# Unreal-generated files and local editor/build state
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/.vs/
+/.idea/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.log
+
+# Generated release archives and local agent configuration
+/Releases/
+/.claude/
+/.codex/
+AGENTS.md
+CLAUDE.md
